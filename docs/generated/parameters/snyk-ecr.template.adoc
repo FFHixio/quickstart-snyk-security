@@ -1,0 +1,7 @@
+
+.Snyk
+[width="100%",cols="16%,11%,73%",options="header",]
+|===
+|Parameter label (name) |Default value|Description|Snyk organization ID
+(`SnykExternalId`)|`**__Requires input__**`|Locate the organization ID by logging in to https://app.snyk.io and navigating to Settings.
+|===

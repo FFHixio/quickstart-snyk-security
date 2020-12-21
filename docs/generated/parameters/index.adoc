@@ -1,1 +1,9 @@
-// placeholder
+
+=== Snyk integration for AWS services
+include::snyk-full.template.adoc[]
+
+=== Snyk integration for AWS Lambda
+include::snyk-lambda.template.adoc[]
+
+=== Snyk integration for Amazon ECR
+include::snyk-ecr.template.adoc[]
